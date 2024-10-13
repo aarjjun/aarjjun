@@ -8,7 +8,7 @@
 - 💻 I have a strong passion for **web development**, always eager to learn new technologies and tools.
 - 🌱 I’m always exploring new ways to enhance my skills and expand my knowledge.
 - 🌍 I enjoy **collaborating** and **networking** with like-minded people, and I love contributing to open-source projects.
-- 🤝 First-time volunteer, with a keen interest in giving back to the community and working on projects that make a difference.
+
 
 ### 🛠️ Technologies & Tools
 
