@@ -1,36 +1,95 @@
-# Hi there, I'm Arjun 👋 
+# Hi there, I'm Arjun! 👋 🚀
 
-![Profile views](https://komarev.com/ghpvc/?username=Arjun-YourGitHubUsername&color=blue)
+![Banner](https://your-banner-link.com)
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F72C6F&background=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner;Creative+Problem+Solver+%7C+Volunteer!" alt="Typing SVG" />
+</p>
 
-- 🎓 I'm currently a student at **TocH Institute of Science and Technology**.
-- 💻 I have a strong passion for **web development**, always eager to learn new technologies and tools.
-- 🌱 I’m always exploring new ways to enhance my skills and expand my knowledge.
-- 🌍 I enjoy **collaborating** and **networking** with like-minded people, and I love contributing to open-source projects.
+![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue) 
+[![Linkedin Badge](https://img.shields.io/badge/-ArjunA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedInProfile/)](https://www.linkedin.com/in/YourLinkedInProfile/)
+[![Gmail Badge](https://img.shields.io/badge/-your.email@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunanoop.codes)](mailto:arjunanoop.codes)
 
+---
 
-### 🛠️ Technologies & Tools
+### 🌟 **About Me**
 
-- Frontend: **HTML | CSS | JavaScript | React**
-- Backend: **Node.js | Express**
-- Database: **MongoDB | MySQL**
-- Version Control: **Git | GitHub**
-- Others: **REST APIs | Bootstrap | Tailwind CSS**
+- 🎓 Currently studying at **TocH Institute of Science and Technology**.
+- 💻 Web development enthusiast — I build things on the web and constantly level up my skills.
+- 🌱 Open to learning anything new: From front-end magic ✨ to back-end wizardry 🧙‍♂️.
+- 🤝 Passionate **volunteer** — I love helping and collaborating on projects that make a difference.
+- 🌍 Exploring the open-source world — building impactful projects with amazing people!
+- 🎨 Fun fact: I’m a fan of **creative problem solving** and brainstorming with developers.
 
-### 🔭 What I’m Currently Working On
+---
 
-- Building projects to enhance my **full-stack development** skills.
-- Volunteering and contributing to open-source communities.
-- Developing a portfolio website to showcase my projects and contributions.
+### ⚡ **Skills & Tools**
 
-### ⚡ Fun Facts
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,git,github,express,nodejs,mongodb,mysql&perline=6" alt="My Skills"/>
+</p>
 
-- I’m always up for a **coding challenge** or a **brainstorming session** with other developers!
-- When I’m not coding, you can find me volunteering or engaging in creative activities that help me stay inspired.
+---
 
-### 📫 How to Reach Me
+### 🔭 **What I'm Currently Working On**
 
-- [LinkedIn](https://www.linkedin.com/in/arjunanoop)
-- [Email](mailto:arjunanoop.codes@gmail.com)
-- [Portfolio Website] (Coming soon!)
+- 🚀 Building some exciting **full-stack web apps**.
+- 📚 Learning **Next.js** and exploring advanced **React patterns**.
+- 👨‍💻 Contributing to open-source projects.
+- 🎨 Creating my portfolio website (coming soon — stay tuned!).
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+---
+
+### 🔥 **Current Streak**
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 💡 **Quote of the Day**
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
+</p>
+
+---
+
+### 🎉 **Random Dev Joke**
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Joke of the day" />
+</p>
+
+---
+
+### ✨ **Fun Facts About Me**
+
+- ⚡ I love coding while listening to lo-fi beats 🎧.
+- 🤯 I’m always up for a **hackathon** or **coding challenge**!
+- 🌈 Creative hobbies include: **Graphic Design**, **UI/UX Design**, and **Photography**.
+- 🌟 Favorite motto: **"Learn, Build, Share!"**
+
+---
+
+### 📫 **Get in Touch**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjunanoop/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### ⭐ **From [Arjun](https://github.com/YourGitHubUsername) with Love!**
+
