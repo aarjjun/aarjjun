@@ -38,11 +38,10 @@
 
 ---
 
-### 📊 **GitHub Stats**
-
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aarjjun&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarjjun&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -50,7 +49,7 @@
 ### 🔥 **Current Streak**
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YourGitHubUsername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=aarjjun&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -59,14 +58,6 @@
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the day" />
-</p>
-
----
-
-### 🎉 **Random Dev Joke**
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Joke of the day" />
 </p>
 
 ---
