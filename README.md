@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=F72C6F&background=FFFFFF&center=true&vCenter=true&width=600&height=45&lines=Web+Developer+%7C+Open+Source+Contributor;Tech+Enthusiast+%7C+Lifelong+Learner;Creative+Problem+Solver+%7C+Volunteer!" alt="Typing SVG" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue) 
-[![Linkedin Badge](https://img.shields.io/badge/-ArjunA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YourLinkedInProfile/)](https://www.linkedin.com/in/YourLinkedInProfile/)
-[![Gmail Badge](https://img.shields.io/badge/-arjunanoop.codes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunanoop.codes)](mailto:arjunanoop.codes)
+![Profile views](https://komarev.com/ghpvc/?username=aarjjune&color=blue) 
+[![Linkedin Badge](https://img.shields.io/badge/-ArjunA-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arjunanoop/)](https://www.linkedin.com/in/arjunanoop/)
+[![Gmail Badge](https://img.shields.io/badge/-arjunanoop.codes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arjunanoop.codes@gmail.com)](mailto:arjunanoop.codes@gmail.com)
 
 ---
 
